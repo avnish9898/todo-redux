@@ -1,0 +1,26 @@
+li{
+    width: 84%; 
+    border: 2px solid rgba(0, 0, 0, 0.35); border-radius: 2rem; margin-bottom: 1rem;
+}
+.container{
+    width: 30%; border: 2px solid black; margin: 2rem auto;
+    padding-top: 2px;
+    border-radius: 2rem;
+
+}
+ul{
+    width: 80%; margin: 0px auto; list-style: none;;
+}
+.add_task{
+    margin-bottom: 1rem;
+}
+
+.title{
+    width: 80%;
+    margin:0.7rem auto;
+   font-size: 1.5rem;
+   font-weight: 700;
+   background-color: white;
+    border:2px solid black;
+    border-radius:2rem
+}
